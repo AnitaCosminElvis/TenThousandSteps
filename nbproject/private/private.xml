@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/Main.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/controller/InsertCoinAction.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/controller/CokeSelectionAction.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/data/ECoinTypes.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/data/ISnack.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/controller/LoginAction.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/controller/CrispsSelectionAction.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/data/SyncUpData.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/data/MarsBar.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/model/SnacksFactory.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/data/ESnackTypes.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/data/ChangeDisperser.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/controller/PayForSnackWorker.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/data/Snack.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/controller/EugeniaSelectionAction.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/data/Crisps.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/data/Water.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/model/Model.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/data/Defines.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/data/CocaCola.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/view/MainJFrame.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/data/AdminReport.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/controller/MarsSelectionAction.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/controller/CashInAction.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/controller/PayForSnackAction.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/data/Eugenia.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/view/AdminJDialog.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/TenThousandsSteps/src/controller/WaterSelectionAction.java</file>
+        </group>
+    </open-files>
+</project-private>
